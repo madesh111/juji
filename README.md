@@ -1,0 +1,2 @@
+# juji
+my first repository
